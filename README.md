@@ -3,15 +3,14 @@ Final project in the Department of Electrical Engineering at the Holon Institute
 This project is based on my original idea on the subject of road accidents computer vision and deep learning.
 -------------------------------------------------------------------------------------------------------------
 
-# Steps for project execution
----------------------------
+ Steps for project execution
+
 1) People are sometimes run over in a crosswalk.
    Sometimes there are hit and run accidents in which the victim is left in a crosswalk sometimes without the possibility of calling for help.
 
 
 2) Suggestion to try to help the problem.
-
-   Placing a device that detects live when people are run over in a crosswalk and the device calls for help via SMS or automatic call.
+  Placing a device that detects live when people are run over in a crosswalk and the device calls for help via SMS or automatic call.
 
 
 3) Project structure
