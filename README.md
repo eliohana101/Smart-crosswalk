@@ -14,12 +14,12 @@ This project is based on my original idea on the subject of road accidents compu
 
  3) Project structure
 
-    3.1 Preparation of a database
-    Photographing a vehicle that overturns a person at a crosswalk, I used my vehicle
-    And a random crosswalk I found in one of the cities.
+   3.1 Preparation of a database
+   Photographing a vehicle that overturns a person at a crosswalk, I used my vehicle
+   And a random crosswalk I found in one of the cities.
 
-    3.2 Labeling the database and dividing it into categories.
+   3.2 Labeling the database and dividing it into categories.
 
-    3.3 Entering the database into the YOLOV5-S object identification network
+   3.3 Entering the database into the YOLOV5-S object identification network
 
-    3.4 Transfer the grid with the weights to the Invida Jetson Nano controller.
+   3.4 Transfer the grid with the weights to the Invida Jetson Nano controller.
