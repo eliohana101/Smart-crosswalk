@@ -3,7 +3,6 @@ Final project in the Department of Electrical Engineering at the Holon Institute
 This project is based on my original idea on the subject of road accidents computer vision and deep learning.
 -------------------------------------------------------------------------------------------------------------
 
- Steps of project execution
  
    Description
    People are sometimes run over in a crosswalk.
