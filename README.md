@@ -4,10 +4,12 @@ This project is based on my original idea on the subject of road accidents compu
 -------------------------------------------------------------------------------------------------------------
      Description
      People are sometimes run over in a crosswalk.
-     Sometimes there are hit and run accidents in which the victim is left in a crosswalk sometimes without the possibility of calling for help.
+     Sometimes there are hit and run accidents in which the victim is left in 
+     a crosswalk sometimes without the possibility of calling for help.
 
      Suggestion for this problem.
-     Placing a device is able to detect in real-time people are run over in a crosswalk and the device calls for help via SMS or automatic call.
+     Placing a device is able to detect in real-time people are run over in a crosswalk and the device calls
+     for help via SMS or automatic call.
 
 
      Project structure
