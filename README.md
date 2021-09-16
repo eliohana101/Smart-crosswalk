@@ -5,15 +5,14 @@ This project is based on my original idea on the subject of road accidents compu
 
  Steps for project execution
 
-1) People are sometimes run over in a crosswalk.
+ 1) People are sometimes run over in a crosswalk.
    Sometimes there are hit and run accidents in which the victim is left in a crosswalk sometimes without the possibility of calling for help.
 
-
-2) Suggestion to try to help the problem.
+ 2) Suggestion to try to help the problem.
   Placing a device that detects live when people are run over in a crosswalk and the device calls for help via SMS or automatic call.
 
 
-3) Project structure
+ 3) Project structure
 
 3.1 Preparation of a database
 Photographing a vehicle that overturns a person at a crosswalk, I used my vehicle
