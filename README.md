@@ -4,12 +4,11 @@ Final project in the Department of Electrical Engineering at the Holon Institute
 ---------------------------------------------------------------------------------------------------------------------------------
    Description:
   
-   People are run over in a crosswalk on occasion there are hit and run accidents. in which case the victim is left in the 
+   People are run over in a crosswalk on occasion there are also hit and run accidents. in which case the victim is left in the 
    crosswalk without the possibility of calling for help.
 
    Suggestion for this problem.
-   Placing a device is able to detect in real-time people are run over in a crosswalk and the device calls
-   for help via SMS or automatic call.
+   Placing a device at the crosswalk that can detect real-time pedestrian accidents in a crosswalk and the device calls for help via SMS or automatic call.
 
 
    Project structure : 
