@@ -12,11 +12,11 @@ Final project in the Department of Electrical Engineering at the Holon Institute
   for help via SMS or automatic call.
 
 
- Project structure : 
-* Preparation of a database Photographing a vehicle that overturns a person at a crosswalk, I used my vehicle And a random crosswalk I found in one of the cities.
+  Project structure : 
+  * Preparation of a database Photographing a vehicle that overturns a person at a crosswalk, I used my vehicle And a random crosswalk I found in one of the cities.
 
-* Labeling the database and dividing it into categories.
+  * Labeling the database and dividing it into categories.
 
-* Entering the database into the YOLOV5-S object identification network.
+  * Entering the database into the YOLOV5-S object identification network.
 
-* Transfer the grid with the weights to the Invidia Jetson Nano controller.
+  * Transfer the grid with the weights to the Invidia Jetson Nano controller.
