@@ -2,7 +2,7 @@
 
 Final project in the Department of Electrical Engineering at the Holon Institute of Technology. This project is based on my original idea on the subject of road accidents computer vision and deep learning.
 ---------------------------------------------------------------------------------------------------------------------------------
-    Description:
+   Description:
   
    People are run over in a crosswalk Sometimes there are hit and run accidents in which the victim is left in the 
    crosswalk on occasion without the possibility of calling for help.
