@@ -14,7 +14,6 @@ This project is based on my original idea on the subject of road accidents compu
 
 
      Project structure
-
    * Preparation of a database
      Photographing a vehicle that overturns a person at a crosswalk, I used my vehicle
      And a random crosswalk I found in one of the cities.
