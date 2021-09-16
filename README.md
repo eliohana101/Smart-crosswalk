@@ -12,7 +12,7 @@ This project is based on my original idea on the subject of road accidents compu
      for help via SMS or automatic call.
 
 
-     Project structure
+     Project structure : 
      
    * Preparation of a database
      Photographing a vehicle that overturns a person at a crosswalk, I used my vehicle
@@ -20,6 +20,6 @@ This project is based on my original idea on the subject of road accidents compu
 
    * Labeling the database and dividing it into categories.
 
-   * Entering the database into the YOLOV5-S object identification network
+   * Entering the database into the YOLOV5-S object identification network.
 
    * Transfer the grid with the weights to the Invidia Jetson Nano controller.
