@@ -1,6 +1,8 @@
 # Smart-Crosswalk
 
-Final project in the Department of Electrical Engineering at the Holon Institute of Technology. This project is based on my original idea on the subject of road accidents computer vision and deep learning.
+Electrical Engineering final year project.
+The project is based on my original idea in the field of road safety, and aims to identify crosswalk accidents by using computer vision and deep learning tools.
+The project was performed at Holon Institute of Technology, 2021.
 ---------------------------------------------------------------------------------------------------------------------------------
    Description:
   
