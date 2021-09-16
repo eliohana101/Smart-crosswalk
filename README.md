@@ -4,7 +4,7 @@ This project is based on my original idea on the subject of road accidents compu
 -------------------------------------------------------------------------------------------------------------
 
  
-     Description
+   Description
    
      People are sometimes run over in a crosswalk.
      Sometimes there are hit and run accidents in which the victim is left in a crosswalk sometimes without the possibility of calling for help.
